@@ -2,6 +2,9 @@ I'm a 19-year-old full stack developer with a passion for back-end development a
 
 💻 Programming Skills:
 Python
+
 JavaScript
+
 HTML
+
 CSS
